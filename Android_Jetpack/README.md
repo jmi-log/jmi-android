@@ -7,7 +7,7 @@
 
 ## 👋🏻 Contents
 - [x] [1️⃣ Android Jetpack이란?](#1️⃣-Android-Jetpack이란?)
-- [x] [2️⃣ Jetpack 라이브러리 사용 방법 (Kotlin)](#2️⃣-Jetpack-라이브러리-사용-방법-(Kotlin))
+- [x] [2️⃣ Jetpack 라이브러리 사용 방법](#2️⃣-Jetpack-라이브러리-사용-방법)
 - [x] [3️⃣ Jetpack 라이브러리 종류](#3️⃣-Jetpack-라이브러리-종류)
 
 ---
@@ -24,7 +24,7 @@
 
 ---
 
-## 2️⃣ Jetpack 라이브러리 사용 방법 (Kotlin)
+## 2️⃣ Jetpack 라이브러리 사용 방법
 > [참고 URL](https://developer.android.com/jetpack/getting-started?hl=ko)
 - settings.gradle 파일을 열고 아래와 같이 dependencyResolutionManagement { repositories {...}} 블록에 google() 저장소를 추가
 ```
