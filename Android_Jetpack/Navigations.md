@@ -17,7 +17,7 @@
 ## 1️⃣ Jetpack Navigation이란?
 > Jetpack Navigation은 Application의 화면 구성을 쉽게 구현하고 화면의 흐름을 시각적으로 보여줄 수 있는 구성 요소이다.
 
-<img height="500" alt="Jetpack Navigation" src="https://github.com/jmi-log/jmi-android/assets/76805879/3a6f1ce6-c6d6-4d76-acf4-a9f4304fecb9" />
+<img width="300" alt="Jetpack Navigation" src="https://github.com/jmi-log/jmi-android/assets/76805879/3a6f1ce6-c6d6-4d76-acf4-a9f4304fecb9" />
 <br /><br />
 
 - Activity, Fragment 간 **데이터 전달**, **화면 이동** 등의 code 구현을 심플하고 안정적으로 처리 가능하다.
